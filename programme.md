@@ -18,7 +18,7 @@ Tentative timetable: <[Download PDF]({{ site.url }}/pdfs/Timetable.pdf){:target=
 * Homology modeling (Swiss-Model)
 * (Secondary structure prediction (PSIPRED))
 
-**Day 2**: Protein flexibility
+**Day 2**: Protein structure analysis
 
 * Web-tools for comparative structure and flexibility analysis
 * Bio3D for protein structure analysis
