@@ -15,7 +15,7 @@ permalink: /tutorials/
 **Day 2**
 
 * Online Protein Structure Analysis with Bio3d-web [[PDF](https://www.dropbox.com/s/kjdgft3gey7q7jw/bio3d-web.pdf?dl=1){:target="_blank"}]
-* Protein Structure Analysis with Bio3d [[PDF]({{ site.url }}/pdfs/bio3d.pdf){:target="_blank"}]
+* Protein Structure Analysis with Bio3d [[PDF](https://www.dropbox.com/s/kpdno1xf4zsnhn7/bio3d.pdf?dl=1){:target="_blank"}]
 
 
 
