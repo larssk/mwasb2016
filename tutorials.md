@@ -7,7 +7,7 @@ permalink: /tutorials/
 
 **Day 1**
 
-* PDB Tutorials
+* PDB Tutorial
 * Biomolecular Visualization with PyMOL [[PDF](https://www.dropbox.com/s/m8sddz7ifzbu8nt/pymol.pdf?dl=1){:target="_blank"}]
 * Homolgy modelling with SwissModel [[PDF](https://www.dropbox.com/s/7lwy0cf6v4rr45f/swissmodel.pdf?dl=1){:target="_blank"}]
 
