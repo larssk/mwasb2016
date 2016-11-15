@@ -11,12 +11,12 @@ Tentative timetable: <[Download PDF]({{ site.url }}/pdfs/Timetable.pdf){:target=
 
 * Protein Data Bank (PDB)
 * Visualization in PyMOL
-* Making publication quality figures
+* (Making publication quality figures)
 
 **Day 1**: Structure prediction
 
 * Homology modeling (Swiss-Model)
-* Secondary structure prediction (PSIPRED)
+* (Secondary structure prediction (PSIPRED))
 
 **Day 2**: Protein flexibility
 
