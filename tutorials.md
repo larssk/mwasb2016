@@ -22,10 +22,8 @@ permalink: /resources/
 ## Relevant links
 
 * Try R Codeschool: [[Link](http://tryr.codeschool.com/){:target="_blank"}]
-
 * Bio3D website: [[Link](http://thegrantlab.org/bio3d/){:target="_blank"}]
 * Bio3D-web: [[Link](http://thegrantlab.org/bio3d-web/){:target="_blank"}]
-
 * Bio3D Tutorials: [[Link](http://thegrantlab.org/bio3d/tutorials){:target="_blank"}]
 * Bio3D Developer Wiki [[Link](https://bitbucket.org/Grantlab/bio3d){:target="_blank"}]
 * Bio3D R handout: [[PDF](https://www.dropbox.com/s/rg25icq2ze8kxlw/Bio3D_tutoral1.pdf?dl=1)]
