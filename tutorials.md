@@ -17,6 +17,7 @@ permalink: /resources/
 
 * Online Protein Structure Analysis with Bio3d-web [[PDF](https://www.dropbox.com/s/kjdgft3gey7q7jw/bio3d-web.pdf?dl=1){:target="_blank"}]
 * Protein Structure Analysis with Bio3d [[PDF](https://www.dropbox.com/s/kpdno1xf4zsnhn7/bio3d.pdf?dl=1){:target="_blank"}]
+* Online Normal Mode Analysis [[PDF](https://www.dropbox.com/s/9kjcyax4ht3nw17/bio3d-NMAweb.pdf?dl=1){:target="_blank"}]
 
 
 ## Relevant links
